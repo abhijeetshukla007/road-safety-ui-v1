@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/road-safety-ui-v1/static/js/main.54a1fbfb.js",
+    "service-worker.js": "/road-safety-ui-v1/service-worker.js",
+    "index.html": "/road-safety-ui-v1/index.html",
+    "main.54a1fbfb.js.map": "/road-safety-ui-v1/static/js/main.54a1fbfb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.54a1fbfb.js"
+  ]
+}
