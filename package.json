@@ -1,7 +1,5 @@
 {
-  "homepage": "https://github.com/abhijeetshukla007/road-safety-ui-v1",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "homepage": "https://github.io/abhijeetshukla007/road-safety-ui-v1",
   "name": "road-safety-ui-v1",
   "version": "0.1.0",
   "private": true,
@@ -36,6 +34,8 @@
     "workbox-webpack-plugin": "^7.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
